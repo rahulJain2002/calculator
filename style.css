@@ -55,6 +55,7 @@
     margin: 8px;
     font-size: 16px;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .calculator button:last-child {
